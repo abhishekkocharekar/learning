@@ -293,7 +293,7 @@ result = func()
 print(c)
 
 #comment 2
-#asdf
+#asdf hello
 
 
 
