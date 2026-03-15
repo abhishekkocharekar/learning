@@ -1,4 +1,4 @@
-#----------multiplication of table------------
+#----------multiplication of tables------------
 # num = int(input("Enter a number:"))
 
 # print("The multiplication of",num)
