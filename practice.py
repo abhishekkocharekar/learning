@@ -292,7 +292,7 @@ def func():
 result = func()
 print(c)
 
-#comment
+#comment 2
 
 
 
